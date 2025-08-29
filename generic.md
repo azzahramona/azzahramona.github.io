@@ -1,14 +1,7 @@
 ---
 layout: post
-title: "📁 Excel Report Automation"
+title: "📁  Marketing Mix Model (Coming Soon)"
 date: 2025-08-25
-image: /assets/images/pic11.jpg
+image: /assets/images/foto1.jpg
 ---
 
-**Objective:** Generate styled Excel reports from raw data automatically.
-
-- Developed using `pandas` and `openpyxl`
-- Outputs presentation-ready Excel files with formatting
-- Used in real reporting pipelines for media spend
-
-👉 [View Code on GitHub](https://github.com/yourname/excel-report-generator)
